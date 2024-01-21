@@ -6,7 +6,7 @@ import simpleGit from "simple-git";
 const git = simpleGit();
 
 // Path to your JSON file
-const path = ".pages/data.json";
+const path = "./pages/data.json";
 
 // List of pre-generated 49 commits
 const commitMessages = [

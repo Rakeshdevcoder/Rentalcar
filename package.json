@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Welcome to our comprehensive tutorial on building a responsive car rental website using HTML, CSS, and JavaScript!",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
